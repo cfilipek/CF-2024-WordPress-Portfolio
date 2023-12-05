@@ -1,3 +1,7 @@
+![Screenshot of Portfolio Site](screenshot.png)
+
+# Claire Filipek's 2024 WordPress Portfolio
+
 Currently using Foundation 6.5.3.
 
 ## JointsWP Requirements
