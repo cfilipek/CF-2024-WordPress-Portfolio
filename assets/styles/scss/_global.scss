@@ -554,3 +554,20 @@ $breakpoint-tablet: 768px;
 	  }
   }
   
+
+//   about page
+
+.section-about {
+	.title {
+		padding-bottom: 20px;
+		margin-bottom: 20px;
+		border-bottom: 2px solid #000000;
+		text-transform: capitalize;
+	}
+
+	.the-content {
+		img {
+			margin: 20px 0;
+		}
+	}
+}
