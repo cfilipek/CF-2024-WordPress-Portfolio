@@ -555,9 +555,11 @@ $breakpoint-tablet: 768px;
   }
   
 
-//   about page
+//   about page + contact page
 
-.section-about {
+.section-about, .section-contact {
+	min-height: 40vh;
+	
 	.title {
 		padding-bottom: 20px;
 		margin-bottom: 20px;
